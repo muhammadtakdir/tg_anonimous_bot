@@ -1,5 +1,5 @@
 # Token bot dari @BotFather
-BOT_TOKEN = "REMOVED"
+BOT_TOKEN = "12388kksdjdjkksdnsksdsdksd" #ganti ke token bot anda
 
 # ID chat admin (akan diisi otomatis saat admin pertama kali mengirim /start)
 # ADMIN_CHAT_IDS = set()  # Bisa support multi-admin
