@@ -1,6 +1,8 @@
-# Token bot dari @BotFather
-BOT_TOKEN = "12388kksdjdjkksdnsksdsdksd" #ganti ke token bot anda
+# config.py
 
-# ID chat admin (akan diisi otomatis saat admin pertama kali mengirim /start)
-# ADMIN_CHAT_IDS = set()  # Bisa support multi-admin
-PRE_APPROVED_ADMINS = [11111111]  # Chat ID admin yang diizinkan
+# Token bot dari @BotFather
+BOT_TOKEN = "ganti_dengan_token_bot_anda"
+
+# Masukkan semua ID numerik admin ke dalam list ini
+# ADMIN_IDS = [1111111111, 2222222222, 3333333333] # Contoh dengan 3 admin
+ADMIN_IDS = [1111111111]
